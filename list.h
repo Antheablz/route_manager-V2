@@ -1,4 +1,4 @@
-/** @file listy.h
+/** @file list.h
  *  @brief Function prototypes for the linked list.
  */
 #ifndef _LINKEDLIST_H_
