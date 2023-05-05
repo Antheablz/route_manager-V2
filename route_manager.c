@@ -1,11 +1,5 @@
 /** @file route_manager.c
  *  @brief A small program to analyze airline routes data.
- *  @author Mike Z.
- *  @author Felipe R.
- *  @author Hausi M.
- *  @author Jose O.
- *  @author Saasha J.
- *  @author Victoria L.
  *  @author Anthea Blais
  *
  */
